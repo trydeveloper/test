@@ -6,4 +6,8 @@
  * To change this template use File | Settings | File Templates.
  */
 public class Hi {
+
+    public void saidHi(){
+        System.out.println("hi");
+    }
 }
